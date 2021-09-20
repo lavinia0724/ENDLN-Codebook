@@ -2,6 +2,7 @@ vector<int> list[5];
 
 void Adjacency_List(){
 
+    // initial
     for (int i = 0; i < 5; i++)
         list[i].clear();
  
