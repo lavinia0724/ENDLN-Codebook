@@ -18,7 +18,7 @@ vector<edge> edges;
 vector<int> G[N];
 bitset<N> vis;
 
-void Dijkstra(int ss) {
+void Dijkstra(int ss){
     priority_queue<heap> Q;
     for (int i = 0; i < V; i++){
         d[i] = INF;
@@ -34,9 +34,9 @@ void Dijkstra(int ss) {
         if (vis[p])
             continue;
         vis[p] = 1;
-        for (int i = 0; i < G[p].size(); i++) {
+        for (int i = 0; i < G[p].size(); i++){
             edge &e = edges[G[p][i]];
-            if (d[e.t] > d[p] + e.d) {
+            if (d[e.t] > d[p] + e.d){
                 d[e.t] = d[p] + e.d;
                 p[e.t] = G[p][i];
                 Q.push(heap(d[e.t], e.t));
