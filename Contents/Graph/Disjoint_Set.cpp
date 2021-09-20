@@ -4,7 +4,7 @@ int Find(int x) {
     return p[x] = find(p[x]);
 }
 
-void Union(int a, int b){
+void Uni(int a, int b){
 
     a = Find(a);
     b = Find(b);
@@ -19,14 +19,14 @@ void Union(int a, int b){
 
 int main(){
 
-  // initial
-  for(i = 0; i < N; i++){
-      parents[i] = -1;
-  }
+    // initial
+    for(i = 0; i < N; i++){
+        p[i] = -1;
+    }
 
-  // input and union
-  for(i = 0; i < M; i++){
-      cin >> a >> b;
-      uni(a, b, parents);
-  }
+    // input and union
+    for(i = 0; i < M; i++){
+        cin >> a >> b;
+        Uni(a, b);
+    }
 }
