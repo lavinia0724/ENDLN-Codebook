@@ -1,3 +1,8 @@
+#include <bitset>
+#include <vector>
+#include <queue>
+using namespace std;
+
 vector<int> G[N];
 bitset<N> vis;
 void bfs(int s) {
