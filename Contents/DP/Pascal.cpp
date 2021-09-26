@@ -1,5 +1,5 @@
 // init：f(i, 0) = f(i, i) = 1
-// trens：f(i, j) = f(i - 1, j) + f(i - 1, j - 1)
+// tren：f(i, j) = f(i - 1, j) + f(i - 1, j - 1)
 int main(){
     int dp[30][30];
     memset(dp, 0, sizeof(dp));
