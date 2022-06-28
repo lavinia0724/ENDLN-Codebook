@@ -1,4 +1,3 @@
-/*
 .begin( ) // Return iterator to beginning 
 .end( ) // Return iterator to end
 .empty( ) // 檢查是否為空
@@ -17,4 +16,3 @@ while( !mymap.empty()){
 }
 for (auto it = mymap.begin(); it != mymap.end(); ++it)
     cout << it->first << " => " << it->second << endl;
-*/
