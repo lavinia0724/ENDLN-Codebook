@@ -15,7 +15,8 @@ int main(){
     dfs(s1, 0, N/2, 0); // 折半枚舉
     dfs(s2, N/2, N, 0);
     long long int ans = 0;
-    for(auto &x : s1){
+    // 題目:枚舉集合 Sx 的數字 Sxi，找出 Sy 集合內小於等於 T−Sxi 中最大的數 Syj
+    for(auto &x : s1){ 
         auto it = s2.upper_bound(T - x);
         long long int y = *(--it);
         if(x + y <= T) ans = max(ans, x + y);
