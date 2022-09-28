@@ -3,7 +3,7 @@
 * CPC
 * NISRA
 
-## Team Member
+## Team Members
 
 * LAVI :hedgehog:
 * CHA :hamster:
