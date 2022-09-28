@@ -1,5 +1,6 @@
+/*逆序數對*/
 int arr[maxn], buf[maxn];
-int count_inversions(int lef, int rig){ // 逆序數對
+int count_inversions(int lef, int rig){
     if(rig - lef <= 1) return 0;
     int mid = (lef + rig)/2;
     int ans = count_inversions(lef, mid) + count_inversions(mid, rig);
