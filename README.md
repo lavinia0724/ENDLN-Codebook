@@ -9,7 +9,7 @@
 * CHA :hamster:
 * Du
 
-> winnie
+> winnie :whale:
 >
 > Mimmy
 
@@ -17,21 +17,21 @@
 
 ### 2021
 * NCPC Preliminary Round
-    * LAVI、CHA、winnie
+    * LAVI、CHA :hamster:、winnie :whale:
 * TOPC
-    * LAVI、CHA、winnie
+    * LAVI、CHA :hamster:、winnie :whale:
 * ICPC
-    * LAVI、CHA、winnie
+    * LAVI、CHA :hamster:、winnie :whale:
 
 ### 2022
 * PUPC
     * Silver Award
-    * LAVI、CHA、Mimmy
+    * LAVI、CHA :hamster:、Mimmy
 * NCPC Preliminary Round
-    * LAVI、CHA、Du
+    * LAVI、CHA :hamster:、Du
 
 ## Information Security Contest
 
 ### 2021
 * Hel10 H@ck1r
-    * LAVI、CHA
+    * LAVI、CHA :hamster:
