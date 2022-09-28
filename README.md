@@ -5,33 +5,33 @@
 
 ## Team Member
 
-* LAVI
+* LAVI :hedgehog:
 * CHA :hamster:
 * Du
 
 > winnie :whale:
->
-> Mimmy
+
+> Mimmy :poodle:
 
 ## Programming Contest
 
 ### 2021
 * NCPC Preliminary Round
-    * LAVI、CHA :hamster:、winnie :whale:
+    * LAVI :hedgehog:、CHA :hamster:、winnie :whale:
 * TOPC
-    * LAVI、CHA :hamster:、winnie :whale:
+    * LAVI :hedgehog:、CHA :hamster:、winnie :whale:
 * ICPC
-    * LAVI、CHA :hamster:、winnie :whale:
+    * LAVI :hedgehog:、CHA :hamster:、winnie :whale:
 
 ### 2022
 * PUPC
     * Silver Award
-    * LAVI、CHA :hamster:、Mimmy
+    * LAVI :hedgehog:、CHA :hamster:、Mimmy :poodle:
 * NCPC Preliminary Round
-    * LAVI、CHA :hamster:、Du
+    * LAVI :hedgehog:、CHA :hamster:、Du
 
 ## Information Security Contest
 
 ### 2021
 * Hel10 H@ck1r
-    * LAVI、CHA :hamster:
+    * LAVI :hedgehog:、CHA :hamster:
