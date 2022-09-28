@@ -7,7 +7,7 @@
 
 * LAVI :hedgehog:
 * CHA :hamster:
-* Du
+* Du :polar_bear:
 
 > winnie :whale:
 
@@ -25,10 +25,10 @@
 
 ### 2022
 * PUPC
-    * Silver Award
+    * Silver Award :2nd_place_medal:
     * LAVI :hedgehog:、CHA :hamster:、Mimmy :poodle:
 * NCPC Preliminary Round
-    * LAVI :hedgehog:、CHA :hamster:、Du
+    * LAVI :hedgehog:、CHA :hamster:、Du :polar_bear:
 
 ## Information Security Contest
 
