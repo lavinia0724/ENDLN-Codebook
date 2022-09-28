@@ -6,7 +6,7 @@
 ## Team Member
 
 * LAVI
-* CHA
+* CHA :hamster:
 * Du
 
 > winnie
