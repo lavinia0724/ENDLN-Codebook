@@ -1,4 +1,4 @@
-/*LCA 最低共同祖先*/
+/* LCA 最低共同祖先 */
 const int maxn = 1e5 + 5;
 struct Edge{
     int v;

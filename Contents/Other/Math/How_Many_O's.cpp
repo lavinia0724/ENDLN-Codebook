@@ -1,4 +1,4 @@
-/*數論*/
+/* 數論 */
 int main(){
     long long int n, m;
     while(cin >> n >> m && (n >= 0) && (m >= 0)){
