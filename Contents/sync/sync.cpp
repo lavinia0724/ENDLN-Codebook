@@ -1,6 +1,4 @@
 int main(){
-    \section{Data Structure}
-        \subsection{Binary Search}
-                \lstinputlisting{Contents/Data_Structure/Binary_Search.cpp}
+    std::ios::sync_with_stdio(false);
     // 開始寫程式
 }
