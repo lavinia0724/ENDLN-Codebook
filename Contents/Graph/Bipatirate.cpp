@@ -1,3 +1,4 @@
+/* 二分圖 */
 const int maxn = 300 + 5;
 int n, color[maxn];
 vector<vector<int>> v(maxn);

@@ -1,3 +1,4 @@
+/* 匈牙利演算法 */
 const int maxn = 500+5;
 int t, N, bn, gn, match[maxn];
 bool visited[maxn];
