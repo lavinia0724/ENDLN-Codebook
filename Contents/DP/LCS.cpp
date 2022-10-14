@@ -1,3 +1,4 @@
+/* Longest Common Subsequence */
 int LCS(string s1, string s2) {
   int n1 = s1.size(), n2 = s2.size();
   int dp[n1+1][n2+1] = {0}; 

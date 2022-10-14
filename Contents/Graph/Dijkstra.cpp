@@ -1,3 +1,4 @@
+/* Dijkstra 最短路徑 */
 struct Item{
     int u, dis;
     // 取路徑最短

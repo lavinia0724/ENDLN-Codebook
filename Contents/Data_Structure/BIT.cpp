@@ -1,3 +1,4 @@
+/* BIT Binary Index Tree */
 #define lowbit(k) (k & -k)
 void add(vector<int> &tr, int id, int val) {
   for (; id <= n; id += lowbit(id)) {

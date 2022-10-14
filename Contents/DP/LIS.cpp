@@ -1,4 +1,5 @@
-int LIS(vector<int> &a) { // Longest Increasing Subsequence
+/* Longest Increasing Subsequence */
+int LIS(vector<int> &a) { 
   vector<int> s;
   for (int i = 0; i < a.size(); i++) {
     if (s.empty() || s.back() < a[i]) {

@@ -1,4 +1,4 @@
-/*BWT 資料轉換演算法*/
+/* BWT 資料轉換演算法 */
 void BWT(){ 
     for(int i = 0; i < n; ++i){
         if(back[i] == 0)
