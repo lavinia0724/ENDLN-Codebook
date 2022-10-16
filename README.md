@@ -33,5 +33,5 @@
 ## Information Security Contest
 
 ### 2021
-* Hel10 H@ck1r
+* Hel10 H@ck1r :1st_place_medal:
     * LAVI :hedgehog:、CHA :hamster:
