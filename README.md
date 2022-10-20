@@ -7,11 +7,13 @@
 
 * LAVI :hedgehog:
 * CHA :hamster:
-* Du :polar_bear:
+* Andy :wolf:
 
 > winnie :whale:
 
 > Mimmy :poodle:
+
+> Du :polar_bear:
 
 ## Programming Contest
 
@@ -29,7 +31,8 @@
     * LAVI :hedgehog:、CHA :hamster:、Mimmy :poodle:
 * NCPC Preliminary Round
     * LAVI :hedgehog:、CHA :hamster:、Du :polar_bear:
-
+* TOPC
+    * LAVI :hedgehog:、CHA :hamster:、Andy :wolf:
 ## Information Security Contest
 
 ### 2021
