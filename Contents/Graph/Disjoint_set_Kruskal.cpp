@@ -17,7 +17,6 @@ int find(int x){
 void unite(int a, int b){
 	a = find(a);
 	b = find(b);
-
 	if(a != b){
 		if(parent[a] < parent[b]){
 			parent[a] += parent[b];
