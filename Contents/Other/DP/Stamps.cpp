@@ -1,4 +1,4 @@
-/* DFS 處理 DP */
+/* dp - dfs/分配可能性並更新 */
 const int maxn = 100+5;
 int h, k, r, maxi = 0;
 int x[maxn], y[maxn];
