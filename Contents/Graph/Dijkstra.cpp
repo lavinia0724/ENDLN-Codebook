@@ -1,4 +1,7 @@
 /* Dijkstra 最短路徑 */
+struct Edge{
+    int v, w;
+};
 struct Item{
     int u, dis;
     // 取路徑最短
@@ -9,7 +12,7 @@ struct Item{
 int dis[maxn];
 vector<Edge> G[maxn];
 void dijkstra(int s){
-    for(int i = 0; i <= n; i++){
+    for(int i = 0; i <= m; i++){
         dis[i] = inf;
     }
     dis[s] = 0;
@@ -22,7 +25,7 @@ void dijkstra(int s){
         if(now.dis > dis[now.u]){
             continue;
         }
-        // 鬆弛更新，把與 now.u 相連的點都跑一遍
+        // 把與 now.u 相連的點都跑一遍
         for(Edge e : G[now.u]){
             if(dis[e.v] > now.dis + e.w){
                 dis[e.v] = now.dis + e.w;
