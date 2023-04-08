@@ -21,7 +21,7 @@
 * NCPC Preliminary Round
     * LAVI :hedgehog:、CHA :hamster:、winnie :whale:
 * TOPC
-    * ：Ranked 93^th^
+    * Ranked 93^th^
     * LAVI :hedgehog:、CHA :hamster:、winnie :whale:
 * ICPC
     * Ranked 87^th^
@@ -34,15 +34,15 @@
 * NCPC Preliminary Round
     * LAVI :hedgehog:、CHA :hamster:、Du :polar_bear:
 * TOPC
-    * ：Ranked 35^th^
+    * Ranked 35^th^
     * LAVI :hedgehog:、CHA :hamster:、Andy :wolf:
 * ICPC
-    * ：Ranked 74^th^
+    * Ranked 74^th^
     * LAVI :hedgehog:、CHA :hamster:、Andy :wolf: 
 
 ## Information Security Contest
 
 ### 2021
 * Hel10 H@ck1r 
-    * ：Ranked 1^th^ :1st_place_medal:
+    * Ranked 1^th^ :1st_place_medal:
     * LAVI :hedgehog:、CHA :hamster:
