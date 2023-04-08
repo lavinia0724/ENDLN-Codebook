@@ -5,7 +5,7 @@
 
 ## Team Members
 
-* LAVI :hedgehog:
+* LAVI :cat2:
 * CHA :hamster:
 * Andy :wolf:
 
@@ -19,30 +19,30 @@
 
 ### 2021
 * NCPC Preliminary Round
-    * LAVI :hedgehog:、CHA :hamster:、winnie :whale:
+    * LAVI :cat2:、CHA :hamster:、winnie :whale:
 * TOPC
     * Ranked 93<sup>th</sup>
-    * LAVI :hedgehog:、CHA :hamster:、winnie :whale:
+    * LAVI :cat2:、CHA :hamster:、winnie :whale:
 * ICPC
     * Ranked 87<sup>th</sup>
-    * LAVI :hedgehog:、CHA :hamster:、winnie :whale:
+    * LAVI :cat2:、CHA :hamster:、winnie :whale:
 
 ### 2022
 * PUPC
     * Silver Award :2nd_place_medal:
-    * LAVI :hedgehog:、CHA :hamster:、Mimmy :poodle:
+    * LAVI :cat2:、CHA :hamster:、Mimmy :poodle:
 * NCPC Preliminary Round
-    * LAVI :hedgehog:、CHA :hamster:、Du :polar_bear:
+    * LAVI :cat2:、CHA :hamster:、Du :polar_bear:
 * TOPC
     * Ranked 35<sup>th</sup>
-    * LAVI :hedgehog:、CHA :hamster:、Andy :wolf:
+    * LAVI :cat2:、CHA :hamster:、Andy :wolf:
 * ICPC
     * Ranked 74<sup>th</sup>
-    * LAVI :hedgehog:、CHA :hamster:、Andy :wolf: 
+    * LAVI :cat2:、CHA :hamster:、Andy :wolf: 
 
 ## Information Security Contest
 
 ### 2021
 * Hel10 H@ck1r 
     * Ranked 1<sup>th</sup> :1st_place_medal:
-    * LAVI :hedgehog:、CHA :hamster:
+    * LAVI :cat2:、CHA :hamster:
