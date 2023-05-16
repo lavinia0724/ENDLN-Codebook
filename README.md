@@ -6,43 +6,41 @@
 ## Team Members
 
 * LAVI :cat2:
-* CHA :hamster:
+* CHA :mouse:
 * Andy :wolf:
 
 > winnie :whale:
-
 > Mimmy :poodle:
-
-> Du :polar_bear:
+> Du :panda_face:
 
 ## Programming Contest
 
 ### 2021
 * NCPC Preliminary Round
-    * LAVI :cat2:、CHA :hamster:、winnie :whale:
+    * LAVI :cat2:、CHA :mouse:、winnie :whale:
 * TOPC
     * Ranked 93<sup>th</sup>
-    * LAVI :cat2:、CHA :hamster:、winnie :whale:
+    * LAVI :cat2:、CHA :mouse:、winnie :whale:
 * ICPC
     * Ranked 87<sup>th</sup>
-    * LAVI :cat2:、CHA :hamster:、winnie :whale:
+    * LAVI :cat2:、CHA :mouse:、winnie :whale:
 
 ### 2022
 * PUPC
     * Silver Award :2nd_place_medal:
-    * LAVI :cat2:、CHA :hamster:、Mimmy :poodle:
+    * LAVI :cat2:、CHA :mouse:、Mimmy :poodle:
 * NCPC Preliminary Round
-    * LAVI :cat2:、CHA :hamster:、Du :polar_bear:
+    * LAVI :cat2:、CHA :mouse:、Du :panda_face:
 * TOPC
     * Ranked 35<sup>th</sup>
-    * LAVI :cat2:、CHA :hamster:、Andy :wolf:
+    * LAVI :cat2:、CHA :mouse:、Andy :wolf:
 * ICPC
     * Ranked 74<sup>th</sup>
-    * LAVI :cat2:、CHA :hamster:、Andy :wolf: 
+    * LAVI :cat2:、CHA :mouse:、Andy :wolf: 
 
 ## Information Security Contest
 
 ### 2021
 * Hel10 H@ck1r 
     * Ranked 1<sup>th</sup> :1st_place_medal:
-    * LAVI :cat2:、CHA :hamster:
+    * LAVI :cat2:、CHA :mouse:
