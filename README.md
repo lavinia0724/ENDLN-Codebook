@@ -8,6 +8,7 @@
 * LAVI :cat2:
 * CHA :mouse:
 * Andy :wolf:
+* BoHan :polar_bear:
 
 > winnie :whale:
 > Mimmy :poodle:
@@ -37,6 +38,10 @@
 * ICPC
     * Ranked 74<sup>th</sup>
     * LAVI :cat2:、CHA :mouse:、Andy :wolf: 
+
+### 2023
+* PUPC
+    * LAVI :cat2:、Andy :wolf:、BoHan :polar_bear:
 
 ## Information Security Contest
 
