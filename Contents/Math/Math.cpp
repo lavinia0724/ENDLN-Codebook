@@ -21,6 +21,3 @@ long long binpow(long long a, long long b, long long m) {
   }
   return res;
 }
-
-// 
-a^2=b^2+c^2-2bc\cos{90}^\circ=b^2+c^2
