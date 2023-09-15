@@ -6,13 +6,14 @@
 ## Team Members
 
 * LAVI :cat2:
-* CHA :mouse:
 * Andy :wolf:
-* BoHan :polar_bear:
+* yus :fish:
 
 > winnie :whale:
 > Mimmy :poodle:
 > Du :panda_face:
+> CHA :mouse:
+> BoHan :polar_bear:
 
 ## Programming Contest
 
@@ -41,7 +42,12 @@
 
 ### 2023
 * PUPC
+    * Silver Award :2nd_place_medal:
     * LAVI :cat2:、Andy :wolf:、BoHan :polar_bear:
+* TOPC
+    * LAVI :cat2:、Andy :wolf:、yus :fish:
+* NCPC Preliminary Round
+    * LAVI :cat2:、Andy :wolf:、yus :fish:
 
 ## Information Security Contest
 
