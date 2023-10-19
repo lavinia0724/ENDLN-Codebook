@@ -45,8 +45,11 @@
     * Silver Award :2nd_place_medal:
     * LAVI :cat2:、Andy :wolf:、BoHan :polar_bear:
 * TOPC
+    * Ranked 69<sup>th</sup>
     * LAVI :cat2:、Andy :wolf:、yus :fish:
 * NCPC Preliminary Round
+    * LAVI :cat2:、Andy :wolf:、yus :fish:
+* ICPC
     * LAVI :cat2:、Andy :wolf:、yus :fish:
 
 ## Information Security Contest
