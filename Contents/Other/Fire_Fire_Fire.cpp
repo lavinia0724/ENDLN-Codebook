@@ -1,5 +1,7 @@
 /* dfs
 只要我有一個小孩不是防火牆，我就必須是防火牆 */
+#include<bits/stdc++.h>
+using namespace std;
 const int maxn = 1000+5;
 int cnt = 0;
 vector<int> G[maxn];
@@ -30,11 +32,13 @@ int main(){
     while(cin >> n && n){
         for(int i = 1; i <= n; ++i) G[i].clear();
         memset(exi, false, sizeof(exi));
-        memset(visited, false, sizeof(visited));  
+        memset(visited, false, sizeof(visited));
         for(int i = 1; i <= n; ++i){
-            int siz; cin >> siz;
+            int siz;
+            cin >> siz;
             for(int j = 0; j < siz; ++j){
-                int num; cin >> num;
+                int num;
+                cin >> num;
                 G[i].emplace_back(num);
             }
         }
