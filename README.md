@@ -50,6 +50,7 @@
 * NCPC Preliminary Round
     * LAVI :cat2:、Andy :wolf:、yus :fish:
 * ICPC
+    * Ranked 87<sup>th</sup>
     * LAVI :cat2:、Andy :wolf:、yus :fish:
 
 ## Information Security Contest
