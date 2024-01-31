@@ -1,5 +1,5 @@
 # ENDL\N
-* FJCU Programming Contest & Information Security Team
+* FJCU Programming Contest & Cyber Security Team
 * CPC
 * NISRA
 
@@ -45,7 +45,7 @@
 * ICPC
     * LAVI :baby_chick:、Andy :wolf:、yus :fish:
 
-## Information Security Contest
+## Cyber Security Contest
 
 ### 2021
 * Hel10 H@ck1r 
