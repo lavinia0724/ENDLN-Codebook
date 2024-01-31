@@ -49,5 +49,4 @@
 
 ### 2021
 * Hel10 H@ck1r 
-    * Ranked 1<sup>th</sup> :1st_place_medal:
     * LAVI :baby_chick:、CHA :mouse:
