@@ -15,7 +15,7 @@
 > CHA :mouse:
 > BoHan :polar_bear:
 
-## Programming Contest
+## Programming Contest Team Member
 
 ### 2021
 * NCPC <!-- Preliminary Round -->
@@ -45,7 +45,7 @@
 * ICPC
     * LAVI :baby_chick:、Andy :wolf:、yus :fish:
 
-## Cyber Security Contest
+## Cyber Security Contest Team Member
 
 ### 2021
 * Hel10 H@ck1r 
