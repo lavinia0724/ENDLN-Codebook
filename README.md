@@ -1,5 +1,5 @@
 # ENDL\N
-* FJCU Programming Contest & Cyber Security Team
+* Programming Contest & Cyber Security Team
 * CPC
 * NISRA
 
